@@ -3,8 +3,18 @@ using System.ComponentModel.DataAnnotations;
 
 namespace FirstApp
 {
+    public static class Dannye
+    {
+        public static Dictionary<int, Fruit> vse = new Dictionary<int, Fruit>();
+    }
+
     public class CommandFruit : ICommand
     {
+        public IResult GetAll()
+        {
+            return TypedResults.Ok(Dannye.vse.Values);
+        }
+        
         public IResult GetById(int id)
         {
             if (!Dannye.vse.TryGetValue(id, out var fruktik))
@@ -23,18 +33,13 @@ namespace FirstApp
             {
                 var oshibochki = validatsia.ToDictionary(
                     v => v.MemberNames.FirstOrDefault() ?? "Ошибка",
-                    v => new[] { v.ErrorMessage ?? "Некорректна }
+                    v => new[] { v.ErrorMessage ?? "Некорректна" }
                 );
                 return Results.ValidationProblem(oshibochki);
             }
             
-            if (Dannye.vse.ContainsKey(id))
-            {
-                return Results.Problem(detail: "Фрукт с таким же ID уже существует", statusCode: 400);
-            }
-            
             Dannye.vse[id] = fruktik;
-            return TypedResults.Created($"/fruktik/{id}", fruktik);
+            return TypedResults.Created($"/fruit/{id}", fruktik);
         }
 
         public IResult UpdateFruit(int id, Fruit fruktik)
