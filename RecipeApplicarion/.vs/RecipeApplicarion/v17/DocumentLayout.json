@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\\source\\repos\\InterShopv2\\RecipeApplicarion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E988FA1F-87A6-4AAD-A804-FE07B33EA918}|RecipeApplicarion\\RecipeApplicarion.csproj|c:\\users\\\u043A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\\source\\repos\\intershopv2\\recipeapplicarion\\recipeapplicarion\\pages\\recipes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E988FA1F-87A6-4AAD-A804-FE07B33EA918}|RecipeApplicarion\\RecipeApplicarion.csproj|solutionrelative:recipeapplicarion\\pages\\recipes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E988FA1F-87A6-4AAD-A804-FE07B33EA918}|RecipeApplicarion\\RecipeApplicarion.csproj|c:\\users\\\u043A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\\source\\repos\\intershopv2\\recipeapplicarion\\recipeapplicarion\\models\\createrecipeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E988FA1F-87A6-4AAD-A804-FE07B33EA918}|RecipeApplicarion\\RecipeApplicarion.csproj|solutionrelative:recipeapplicarion\\models\\createrecipeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E988FA1F-87A6-4AAD-A804-FE07B33EA918}|RecipeApplicarion\\RecipeApplicarion.csproj|c:\\users\\\u043A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\\source\\repos\\intershopv2\\recipeapplicarion\\recipeapplicarion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E988FA1F-87A6-4AAD-A804-FE07B33EA918}|RecipeApplicarion\\RecipeApplicarion.csproj|solutionrelative:recipeapplicarion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E988FA1F-87A6-4AAD-A804-FE07B33EA918}|RecipeApplicarion\\RecipeApplicarion.csproj|c:\\users\\\u043A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\\source\\repos\\intershopv2\\recipeapplicarion\\recipeapplicarion\\pages\\recipes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E988FA1F-87A6-4AAD-A804-FE07B33EA918}|RecipeApplicarion\\RecipeApplicarion.csproj|solutionrelative:recipeapplicarion\\pages\\recipes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E988FA1F-87A6-4AAD-A804-FE07B33EA918}|RecipeApplicarion\\RecipeApplicarion.csproj|c:\\users\\\u043A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\\source\\repos\\intershopv2\\recipeapplicarion\\recipeapplicarion\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E988FA1F-87A6-4AAD-A804-FE07B33EA918}|RecipeApplicarion\\RecipeApplicarion.csproj|solutionrelative:recipeapplicarion\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E988FA1F-87A6-4AAD-A804-FE07B33EA918}|RecipeApplicarion\\RecipeApplicarion.csproj|c:\\users\\\u043A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\\source\\repos\\intershopv2\\recipeapplicarion\\recipeapplicarion\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E988FA1F-87A6-4AAD-A804-FE07B33EA918}|RecipeApplicarion\\RecipeApplicarion.csproj|solutionrelative:recipeapplicarion\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E988FA1F-87A6-4AAD-A804-FE07B33EA918}|RecipeApplicarion\\RecipeApplicarion.csproj|c:\\users\\\u043A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\\source\\repos\\intershopv2\\recipeapplicarion\\recipeapplicarion\\models\\createingredientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E988FA1F-87A6-4AAD-A804-FE07B33EA918}|RecipeApplicarion\\RecipeApplicarion.csproj|solutionrelative:recipeapplicarion\\models\\createingredientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\\source\\repos\\InterShopv2\\RecipeApplicarion\\RecipeApplicarion\\appsettings.json",
+              "RelativeDocumentMoniker": "RecipeApplicarion\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\\source\\repos\\InterShopv2\\RecipeApplicarion\\RecipeApplicarion\\appsettings.json",
+              "RelativeToolTip": "RecipeApplicarion\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T16:00:03.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\\source\\repos\\InterShopv2\\RecipeApplicarion\\RecipeApplicarion\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RecipeApplicarion\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\\source\\repos\\InterShopv2\\RecipeApplicarion\\RecipeApplicarion\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RecipeApplicarion\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T15:44:08.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\\source\\repos\\InterShopv2\\RecipeApplicarion\\RecipeApplicarion\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RecipeApplicarion\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\\source\\repos\\InterShopv2\\RecipeApplicarion\\RecipeApplicarion\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "RecipeApplicarion\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T14:24:39.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateIngredientViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\\source\\repos\\InterShopv2\\RecipeApplicarion\\RecipeApplicarion\\Models\\CreateIngredientViewModel.cs",
+              "RelativeDocumentMoniker": "RecipeApplicarion\\Models\\CreateIngredientViewModel.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\\source\\repos\\InterShopv2\\RecipeApplicarion\\RecipeApplicarion\\Models\\CreateIngredientViewModel.cs",
+              "RelativeToolTip": "RecipeApplicarion\\Models\\CreateIngredientViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:30:11.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateRecipeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\\source\\repos\\InterShopv2\\RecipeApplicarion\\RecipeApplicarion\\Models\\CreateRecipeViewModel.cs",
+              "RelativeDocumentMoniker": "RecipeApplicarion\\Models\\CreateRecipeViewModel.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\\source\\repos\\InterShopv2\\RecipeApplicarion\\RecipeApplicarion\\Models\\CreateRecipeViewModel.cs",
+              "RelativeToolTip": "RecipeApplicarion\\Models\\CreateRecipeViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:22:52.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\\source\\repos\\InterShopv2\\RecipeApplicarion\\RecipeApplicarion\\Pages\\Recipes\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RecipeApplicarion\\Pages\\Recipes\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\\source\\repos\\InterShopv2\\RecipeApplicarion\\RecipeApplicarion\\Pages\\Recipes\\Create.cshtml.cs",
+              "RelativeToolTip": "RecipeApplicarion\\Pages\\Recipes\\Create.cshtml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAlwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:17:36.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\\source\\repos\\InterShopv2\\RecipeApplicarion\\RecipeApplicarion\\Pages\\Recipes\\Create.cshtml",
+              "RelativeDocumentMoniker": "RecipeApplicarion\\Pages\\Recipes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0438\u043D\\source\\repos\\InterShopv2\\RecipeApplicarion\\RecipeApplicarion\\Pages\\Recipes\\Create.cshtml",
+              "RelativeToolTip": "RecipeApplicarion\\Pages\\Recipes\\Create.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T16:17:26.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
